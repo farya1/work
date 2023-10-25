@@ -1,3 +1,4 @@
 do assignment
 do lab work
 create manual
+draw diagrams
